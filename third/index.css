@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.row {
+  height: 100px;
+  width: 100%;
+}
+
+
+.row1 {
+  background-color: #D8D8D8;
+  padding: 25px;
+  box-sizing: border-box;
+}
+
+.row1_object {
+  width: 50px;
+  height: 50px;
+  background-color: blue;
+}
+
+.row2 {
+  background-color: #fff;
+  box-sizing: border-box;
+  padding: 70px;
+}
+
+.row3 {
+  background-color: blue;
+}
+
+.row4 {
+  background-color: cyan;
+}
+
+.row5 {
+  background-color: greenyellow;
+}
+
+.row6 {
+  background-color: #F8E71C;
+}
